@@ -1,5 +1,3 @@
-# Decentrailzed-Dinning
-
 # Decentralized Dining 🍽️🔗
 
 A blockchain-powered dining solution that enables customers to access a **decentralized menu** and make **secure, cryptocurrency-based payments** via **MetaMask integration**. This project enhances transparency, security, and decentralization in the restaurant industry.
@@ -24,15 +22,27 @@ A blockchain-powered dining solution that enables customers to access a **decent
 https://github.com/piyush07-bhardwaj
    cd Descentralized-Dining
 📌 Usage
+
+
 Connect your MetaMask wallet.
 Browse the decentralized menu and place orders.
 Confirm payments via MetaMask.
 Track your order on-chain.
+
+
 🔐 Smart Contract Overview
+
+
 OrderContract.sol - Manages food orders.
 PaymentContract.sol - Handles cryptocurrency transactions.
+
+
 📜 License
+
+
 This project is licensed under the MIT License.
 
 🤝 Contributing
+
+
 Pull requests are welcome! Please follow the contribution guidelines.
